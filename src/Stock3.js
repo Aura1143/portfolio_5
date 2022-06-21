@@ -11,7 +11,7 @@ function Stock3() {
   // Facebook
   useEffect(() => {
     fetch(
-      "https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=FB&outputsize=compact&apikey=${process.env.REACT_APP_API_KEY}"
+      "https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=META&outputsize=compact&apikey=${process.env.REACT_APP_API_KEY}"
     )
       .then((response) => response.json())
       .then((data) => {
