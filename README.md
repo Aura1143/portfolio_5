@@ -6,10 +6,12 @@
 
 **https://glass-dashboard-app.firebaseapp.com/**
 
+<!--
 APIキーのサブスクリプション化に伴い、このポートフォリオは使用できなくなりました。  
 ご不便をおかけしますが、何卒ご理解いただきますようお願い申し上げます。
 
 >💡 Tip: this is a premium API function. Subscribe to a premium membership plan to instantly unlock all premium APIs.
+-->
 
 ---
 
